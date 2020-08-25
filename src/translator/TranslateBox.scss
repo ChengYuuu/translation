@@ -1,0 +1,19 @@
+.translate-box-container {
+  border: 1px solid black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  flex: 0 0 30%;
+}
+
+.translate-box-header {
+  text-align: center;
+  flex-basis: 100%;
+  margin: 8px 0 0;
+}
+
+.translate-engine {
+  flex-basis: 100%;
+  margin: 1% 2.5% 2%;
+  height: 75%
+}
